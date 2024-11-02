@@ -1,0 +1,14 @@
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\bin\Debug\net8.0\Робота з шаблонними методами.exe
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\bin\Debug\net8.0\Робота з шаблонними методами.deps.json
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\bin\Debug\net8.0\Робота з шаблонними методами.runtimeconfig.json
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\bin\Debug\net8.0\Робота з шаблонними методами.dll
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\bin\Debug\net8.0\Робота з шаблонними методами.pdb
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\obj\Debug\net8.0\Робота з шаблонними методами.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\obj\Debug\net8.0\Робота з шаблонними методами.AssemblyInfoInputs.cache
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\obj\Debug\net8.0\Робота з шаблонними методами.AssemblyInfo.cs
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\obj\Debug\net8.0\Робота з шаблонними методами.csproj.CoreCompileInputs.cache
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\obj\Debug\net8.0\Робота з шаблонними методами.dll
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\obj\Debug\net8.0\refint\Робота з шаблонними методами.dll
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\obj\Debug\net8.0\Робота з шаблонними методами.pdb
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\obj\Debug\net8.0\Робота з шаблонними методами.genruntimeconfig.cache
+C:\Users\Nazario\source\repos\Робота з шаблонними методами\Робота з шаблонними методами\obj\Debug\net8.0\ref\Робота з шаблонними методами.dll
