@@ -2,7 +2,7 @@
 {
     public abstract class Operation
     {
-        // Метод для розрахунку операції
+        // Метод  розрахунку операції
         public abstract double Calculate(double a, double b);
 
         // Метод для логування операції
@@ -12,7 +12,7 @@
         }
     }
 
-    // Клас для додавання
+    // Клас додавання
     public class Sum : Operation
     {
         public override double Calculate(double a, double b)
@@ -23,7 +23,7 @@
         }
     }
 
-    // Клас для ділення
+    // Клас  ділення
     public class Divide : Operation
     {
         public override double Calculate(double a, double b)
@@ -84,7 +84,7 @@
                         return;
                 }
 
-                // Обчислення та виведення результату
+                // Обчислення та виведення 
                 op.Calculate(a, b);
             }
             catch (FormatException)
